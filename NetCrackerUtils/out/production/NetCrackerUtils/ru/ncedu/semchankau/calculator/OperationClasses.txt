@@ -1,0 +1,8 @@
+/
+OperationDivision
+-
+OperationMinus
+*
+OperationMultiply
++
+OperationPlus
